@@ -1,0 +1,4 @@
+First you have to download the dataset
+
+Download mnist_784 dataset, choose de csv version:
+https://datahub.io/machine-learning/mnist_784
